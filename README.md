@@ -1,2 +1,2 @@
 # Lead_score
-Lead scpre case study
+Lead score case study
